@@ -92,7 +92,7 @@ FairDecide emphasizes that fairness in AI is not automatic—it must be **measur
 ---
 
 ## 👩‍💻 Author
-**Ayushi Karn**
+**Ayushi Karn**<br>
 **Apurva Jha**
 
 ---
